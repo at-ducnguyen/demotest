@@ -1,0 +1,27 @@
+
+#myList li{ display:none;
+}
+#xxx li{ display:none;
+}
+#loadMore {
+    
+    cursor:pointer;
+}
+#loadMore:hover {
+    color:black;
+}
+#showLess {
+    
+    cursor:pointer;
+}
+#showLess:hover {
+    color:black;
+}
+
+
+
+ul.row {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
